@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Viewing ${name}</title>
+    </head>
+    <body>
+        <h1>${name}</h1>
+        <h3>Subject assertions</h3>
+        <table>
+        % for row in sa:
+            <tr>
+                <td style="font-weight:bold">${row['pred']['value']}</td>
+                % if row['obj']['type']=='uri':
+                <td><a href="view?id=${qp(row['obj']['value'])}">${row['obj']['value']}</a></td>
+                % else:
+                <td>${row['obj']['value']}</td>                
+                % endif
+            </tr>
+        % endfor
+        </table>
+        <h3>Object assertions</h3>
+        <table>
+        % for row in oa:
+            <tr>
+                <td style="font-weight:bold">${row['pred']['value']}</td>
+                % if row['sub']['type']=='uri':
+                <td><a href="view?id=${qp(row['sub']['value'])}">${row['sub']['value']}</a></td>
+                % else:
+                <td>${row['sub']['value']}</td>                
+                % endif
+            </tr>
+        % endfor
+        </table>
+    </body>
+</html>
+

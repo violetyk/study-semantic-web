@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:company="http://purl.org/rss/1.0/modules/company/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:jobboard="http://semprog.com/schemas/jobboard#"
+   xmlns:jobs="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#yahoo">
+    <company:symbol>YHOO</company:symbol>
+    <company:name>Yahoo</company:name>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#1">
+    <jobboard:location rdf:resource="http://semprog.com/schemas/jobboard#san_francisco_ca"/>
+    <jobs:salaryrange rdf:nodeID="jHdUWoDF3"/>
+    <dc:title>Tugboat Captain</dc:title>
+    <jobs:vacancywith rdf:resource="http://semprog.com/schemas/jobboard#metaweb"/>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Vacancy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#metaweb">
+    <rdfs:seeAlso>http://api.crunchbase.com/v/1/company/metawebtechnologies.js</rdfs:seeAlso>
+    <company:name>Metaweb</company:name>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#2">
+    <jobboard:location rdf:resource="http://semprog.com/schemas/jobboard#new_york_ny"/>
+    <jobs:salaryrange rdf:nodeID="jHdUWoDF4"/>
+    <dc:title>Ancient Mariner</dc:title>
+    <jobs:vacancywith rdf:resource="http://semprog.com/schemas/jobboard#google"/>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Vacancy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#4">
+    <jobboard:location rdf:resource="http://semprog.com/schemas/jobboard#tempe_az"/>
+    <jobs:salaryrange rdf:nodeID="jHdUWoDF6"/>
+    <dc:title>Third Mate</dc:title>
+    <jobs:vacancywith rdf:resource="http://semprog.com/schemas/jobboard#yahoo"/>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Vacancy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#5">
+    <jobboard:location rdf:resource="http://semprog.com/schemas/jobboard#new_york_ny"/>
+    <jobs:salaryrange rdf:nodeID="jHdUWoDF7"/>
+    <dc:title>Stevedore</dc:title>
+    <jobs:vacancywith rdf:resource="http://semprog.com/schemas/jobboard#tumblr"/>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Vacancy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#google">
+    <rdfs:seeAlso>http://api.crunchbase.com/v/1/company/google.js</rdfs:seeAlso>
+    <company:symbol>GOOG</company:symbol>
+    <company:name>Google</company:name>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#tempe_az">
+    <dc:title>Tempe, AZ</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#seattle_wa">
+    <dc:title>Seattle, WA</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#microsoft">
+    <company:symbol>MSFT</company:symbol>
+    <company:name>Microsoft</company:name>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#3">
+    <jobboard:location rdf:resource="http://semprog.com/schemas/jobboard#seattle_wa"/>
+    <jobs:salaryrange rdf:nodeID="jHdUWoDF5"/>
+    <dc:title>Fisherman</dc:title>
+    <jobs:vacancywith rdf:resource="http://semprog.com/schemas/jobboard#microsoft"/>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Vacancy"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="jHdUWoDF5">
+    <jobs:minimumsalary rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30000.0</jobs:minimumsalary>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="jHdUWoDF3">
+    <jobs:minimumsalary rdf:datatype="http://www.w3.org/2001/XMLSchema#float">10000.0</jobs:minimumsalary>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#tumblr">
+    <rdfs:seeAlso>http://api.crunchbase.com/v/1/company/tumblr.js</rdfs:seeAlso>
+    <company:name>Tumblr</company:name>
+    <rdf:type rdf:resource="http://www.medev.ac.uk/interoperability/rss/1.0/modules/jobs/rss1.0jobsmodule#Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#new_york_ny">
+    <dc:title>New York, NY</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="jHdUWoDF4">
+    <jobs:minimumsalary rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20000.0</jobs:minimumsalary>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="jHdUWoDF7">
+    <jobs:minimumsalary rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50000.0</jobs:minimumsalary>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#san_francisco_ca">
+    <dc:title>San Francisco, CA</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="jHdUWoDF6">
+    <jobs:minimumsalary rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40000.0</jobs:minimumsalary>
+  </rdf:Description>
+</rdf:RDF>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:census="tag:govshare.info,2005:rdf/census/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:jobboard="http://semprog.com/schemas/jobboard#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#seattle_wa">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">850</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">549210</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">142.5</census:landarea>
+    <dc:title>Seattle</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#boulder_co">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">820</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">91685</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.0</census:landarea>
+    <dc:title>Boulder</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#tempe_az">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">727</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">174091</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.2</census:landarea>
+    <dc:title>Tempe</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#san_francisco_ca">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1325</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">799183</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">232.0</census:landarea>
+    <dc:title>San Francisco</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#dallas_tx">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">746</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1240499</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#int">385</census:landarea>
+    <dc:title>Dallas</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#new_york_ny">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1180</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8274527</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">490.0</census:landarea>
+    <dc:title>New York</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#pittsburgh_pa">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">594</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">312819</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.3</census:landarea>
+    <dc:title>Pittsburgh</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#washington_dc">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1131</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">591833</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">68.3</census:landarea>
+    <dc:title>Washington</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semprog.com/schemas/jobboard#redmond_wa">
+    <jobboard:onebedrent rdf:datatype="http://www.w3.org/2001/XMLSchema#int">820</jobboard:onebedrent>
+    <census:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46391</census:population>
+    <census:landarea rdf:datatype="http://www.w3.org/2001/XMLSchema#float">16.6</census:landarea>
+    <dc:title>Redmond</dc:title>
+  </rdf:Description>
+</rdf:RDF>
+

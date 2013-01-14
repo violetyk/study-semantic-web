@@ -1,0 +1,3183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:fb="http://rdf.freebase.com/ns/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:celebs="http://semprog.com/celebs/relationship/"
+>
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/lenny_and_nicole">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lenny_kravitz"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicole_kidman"/>
+    <fb:end>2004</fb:end>
+    <fb:start>2003</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_f_kennedy_jr">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John F. Kennedy, Jr.</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/conor_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/conor_oberst"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:end>1996</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_benitez">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Benitez</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/michael_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/michael_vartan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_garner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/penelope_and_tom">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/penelope_cruz"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tom_cruise"/>
+    <fb:end>2004</fb:end>
+    <fb:start>2001</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/rick_and_paris">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/rick_salomon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/paris_hilton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/gisele_bundchen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Gisele Bündchen</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/evan_dando">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Evan Dando</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/robert_and_charmaine">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robert_de_niro"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/charmaine_sinclair"/>
+    <fb:end>1995</fb:end>
+    <fb:start>1993</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jennifer_garner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jennifer Garner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mandy_moore">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mandy Moore</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/stephan_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/stephan_jenkins"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/katherine_and_joey">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/katherine_heigl"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/joey_lawrence"/>
+    <fb:start>1994</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/keira_knightley">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Keira Knightley</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/vanessa_l_williams">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Vanessa L. Williams</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/alfred_de_musset">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Alfred de Musset</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brody_and_lauren">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brody_jenner"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lauren_conrad"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/frederic_and_george">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/frederic_chopin"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/george_sand"/>
+    <fb:end>1847</fb:end>
+    <fb:start>1837</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tom_and_heidi">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tom_sizemore"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/heidi_fleiss"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_isabelle">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/isabelle_adjani"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/henry_and_diane">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/henry_kissinger"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/diane_sawyer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/chris_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/chris_isaak"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/cameron_and_jared">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/cameron_diaz"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jared_leto"/>
+    <fb:end>2002</fb:end>
+    <fb:start>1998</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/leisha_and_k">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/leisha_hailey"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/k_d_lang"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kristen_and_dax">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kristen_bell"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/dax_shepard"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/chace_crawford">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Chace Crawford</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/guy_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/guy_ritchie"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/adam_and_mandy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/adam_goldstein"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/gwyneth_paltrow">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Gwyneth Paltrow</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_rdf:Description>">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/john_mayer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/nicolas_cage">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Nicolas Cage</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/soon-yi_previn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Soon-Yi Previn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/diane_sawyer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Diane Sawyer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/gina_and_owen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gina_gershon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/owen_wilson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/gabriel_aubry">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Gabriel Aubry</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/diane_keaton">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Diane Keaton</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/juliet_anderson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Juliet Anderson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/julie_and_warren">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/julie_christie"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/scarlett_and_josh">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/scarlett_johansson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/josh_hartnett"/>
+    <fb:end>2006</fb:end>
+    <fb:start>2004</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/Ashley_Alexandra_Dupre">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ashley Alexandra Dupré</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/del_synnott">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Del Synnott</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hayden_and_stephen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hayden_panettiere"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/stephen_colletti"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kevin_federline">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kevin Federline</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/david_charvet">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>David Charvet</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/rick_salomon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Rick Salomon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/robert_sean_leonard">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Robert Sean Leonard</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/seka">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Seka</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/diana_princess_of_wales">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Diana, Princess of Wales</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jerry_and_shoshanna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jerry_seinfeld"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/shoshanna_lonstein_gruss"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sean_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sean_combs"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_lopez"/>
+    <fb:end>1999-12</fb:end>
+    <fb:start>1997-08</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/terri_seymour">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Terri Seymour</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tom_cruise">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tom Cruise</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/marilyn_monroe">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Marilyn Monroe</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ben_and_jeanne">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_stiller"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jeanne_tripplehorn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/eva_mendes">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Eva Mendes</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/stephan_jenkins">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Stephan Jenkins</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/heidi_klum">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Heidi Klum</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jack_white">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Anthony Gillis</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mario_sorrenti">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mario Sorrenti</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/conor_oberst">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Conor Oberst</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/common">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Common</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_joan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/joan_collins"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/blake_lively">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Blake Lively</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/howard_and_robin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/howard_stern"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robin_givens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/toukie_smith">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Toukie Smith</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hugh_and_holly">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hugh_hefner"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/holly_madison"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sean_and_rdf:Description>">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sean_penn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_rufus">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_winslet"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/rufus_sewell"/>
+    <fb:end>1998</fb:end>
+    <fb:start>1996</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/janeane_garofalo">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Janeane Garofalo</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/robert_and_gwyneth">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robert_sean_leonard"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gwyneth_paltrow"/>
+    <fb:start>2001</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kevin_mann">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kevin Mann</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/faye_and_warren">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/faye_dunaway"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/hank_baskett">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Hank Baskett</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/penelope_cruz">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Penélope Cruz</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/Rob_Mack">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Rob Mack</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/billy_crawford">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Billy Crawford</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/keith_urban">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Keith Urban</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/reggie_and_kim">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/reggie_bush"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kim_kardashian"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/dennis_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/dennis_rodman"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/julie_christie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Julie Christie</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/brooke_burns">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Brooke Burns</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tre_cool">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tré Cool</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jennifer_and_johnny">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_grey"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/johnny_depp"/>
+    <fb:end>1989</fb:end>
+    <fb:start>1989</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/billy_crudup">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Billy Crudup</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/stuart_townsend">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Stuart Townsend</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/Caroline_Pal">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Caroline Pal</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sheryl_crow">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sheryl Crow</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/elton_john">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Elton John</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/elizabeth_daily">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Elizabeth Daily</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/julian_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/julian_casablancas"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jennifer_love_hewitt">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jennifer Love Hewitt</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/christopher_heinz">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Christopher Heinz</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/shar_and_kevin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/shar_jackson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kevin_federline"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/vanessa_anne_hudgens">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Vanessa Anne Hudgens</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/emily_sandberg">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Emily Sandberg</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mary-louise_and_billy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mary-louise_parker"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/billy_crudup"/>
+    <fb:end>2003-11</fb:end>
+    <fb:start>1996</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/maria_rosado">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Maria Bravo Rosado</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/calista_flockhart">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Calista Flockhart</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ashlee_simpson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ashlee Simpson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/katie_couric">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Katie Couric</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sam_giancana">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sam Giancana</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/stephen_colletti">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Stephen Colletti</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jenna_and_justin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jenna_dewan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/justin_timberlake"/>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kelly_and_charlie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kelly_preston"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/charlie_sheen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/carroll_lesesne">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Carroll Lesesne</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/anthony_kiedis">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Anthony Kiedis</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/gina_gershon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Gina Gershon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/wilmer_valderrama">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Wilmer Valderrama</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/thandie_newton">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Thandie Newton</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/marcus_schenkenberg">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Marcus Schenkenberg</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/diane_and_woody">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/diane_keaton"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/woody_allen"/>
+    <fb:start>1970</fb:start>
+    <fb:end>1979</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/scarlett_johansson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Scarlett Johansson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_holmes_1944">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Holmes</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/winona_and_dave">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/dave_pirner"/>
+    <fb:end>1996</fb:end>
+    <fb:start>1993</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/billy_zane">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Billy Zane</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/karen_mcdougal">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Karen McDougal</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ashlee_and_wilmer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ashlee_simpson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/wilmer_valderrama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/leisha_hailey">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Leisha Hailey</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/charmaine_sinclair">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Charmaine Sinclair</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/lindsay_and_aaron">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lindsay_lohan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/aaron_carter"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/paul_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/paul_scolor"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_aniston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mark_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mark_wahlberg"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/howard_stern">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Howard Stern</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/stephanie_rice">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Stephanie Rice</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/rhett_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/rhett_miller"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kelly_preston">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kelly Preston</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/marc_and_jane">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/marc_singer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jane_krakowski"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_janice">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/janice_dickinson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/serena_williams">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Serena Williams</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brad_and_juliette">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/juliette_lewis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kirsten_and_jake">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kirsten_dunst"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jake_gyllenhaal"/>
+    <fb:start>2002-09</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ben_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_affleck"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_lopez"/>
+    <fb:end>2004-01</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/charlize_theron">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Charlize Theron</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/rupert_friend">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Rupert Friend</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brad_and_gwyneth">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gwyneth_paltrow"/>
+    <fb:start>1996-12-20</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/katherine_and_jason">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/katherine_heigl"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jason_behr"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brody_and_jayde">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brody_jenner"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jayde_nicole"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/k_d_lang">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>k.d. lang</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/hadrian">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Hadrian</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hugh_and_claire">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hugh_dancy"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/claire_danes"/>
+    <fb:start>2006-12</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jake_gyllenhaal">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jake Gyllenhaal</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/gwen_stefani">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Gwen Stefani</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Madonna</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/david_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/david_duchovny"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mandy_and_wilmer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/wilmer_valderrama"/>
+    <fb:end>2002</fb:end>
+    <fb:start>2000</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/stephan_and_charlize">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/stephan_jenkins"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/charlize_theron"/>
+    <fb:end>2001</fb:end>
+    <fb:start>1998</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/matt_and_cameron">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/matt_dillon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/cameron_diaz"/>
+    <fb:end>1998</fb:end>
+    <fb:start>1995</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/joaquin_phoenix">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Joaquin Phoenix</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kelly_and_pamela">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kelly_slater"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/pamela_anderson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/calista_and_ben">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/calista_flockhart"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_stiller"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/george_sand">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>George Sand</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brad_and_robin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robin_givens"/>
+    <fb:start>1989</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/stephen_tredre">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Stephen Tredre</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jessica_simpson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jessica Simpson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sinitta_malone">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sinitta</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/blake_and_penn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/blake_lively"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/penn_badgley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/charlie_sheen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Charlie Sheen</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/candy_samples">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Candy Samples</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/paul_dinello">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Paul Dinello</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sam_and_judith">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sam_giancana"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/judith_exner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/wilmer_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/wilmer_valderrama"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_love_hewitt"/>
+    <fb:end>1999</fb:end>
+    <fb:start>1999</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/greg_laswell">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Greg Laswell</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/frank_sinatra">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Frank Sinatra</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sherilyn_fenn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sherilyn Fenn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_leslie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/leslie_caron"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/woody_allen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Woody Allen</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/flavio_and_heidi">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/flavio_briatore"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/heidi_klum"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/angie_everhart">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Angie Everhart</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/paris_hilton">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Paris Hilton</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/vanessa_and_Rob">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/vanessa_l_williams"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/Rob_Mack"/>
+    <fb:start>2006</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/judith_exner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Judith Exner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//authority/netflix/role/20044548">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kick Gurry</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/brody_jenner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Brody Jenner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ryan_cabrera">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ryan Cabrera</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/matt_dillon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Matt Dillon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/hugh_dancy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Hugh Dancy</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/gisele_and_leonardo">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gisele_bundchen"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/leonardo_dicaprio"/>
+    <fb:end>2005</fb:end>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brooke_and_david">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brooke_burke"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/david_charvet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/warren_beatty">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Warren Beatty</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mariah_carey">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mariah Carey</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/howard_and_angie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/howard_stern"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/angie_everhart"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jenna_jameson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jenna Jameson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/suze_and_bob">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/suze_rotolo"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bob_dylan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/reggie_bush">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Reggie Bush</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kirsten_dunst">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kirsten Dunst</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/del_and_keira">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/del_synnott"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/keira_knightley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/lindsay_lohan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Lindsay Lohan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/shalane_and_brad">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/shalane_mccall"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:end>1988</fb:end>
+    <fb:start>1987</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/zach_braff">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Zach Braff</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/justin_and_jessica">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/justin_timberlake"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jessica_biel"/>
+    <fb:start>2007-01</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/dave_grohl">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Dave Grohl</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_jamie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_moss"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/jamie_hince"/>
+    <fb:end>2008-07</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/luis_miguel">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Luis Miguel</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/david_duchovny">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>David Duchovny</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/frederic_chopin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Frédéric Chopin</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/nicole_and_robbie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicole_kidman"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robbie_williams"/>
+    <fb:start>2004</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/chris_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/chris_noth"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:end>2000</fb:end>
+    <fb:start>2000</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/gisele_and_kelly">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gisele_bundchen"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kelly_slater"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/adam_and_nicole">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/adam_goldstein"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicole_richie"/>
+    <fb:end>2005</fb:end>
+    <fb:start>2003</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sarah_and_robert">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sarah_jessica_parker"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robert_downey_jr"/>
+    <fb:end>1991</fb:end>
+    <fb:start>1984</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/halle_berry">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Halle Berry</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/michael_and_stephanie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/michael_phelps"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/stephanie_rice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ashlee_and_josh">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ashlee_simpson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/josh_henderson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/paul_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/paul_westerberg"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/carlos_leon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Carlos Leon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/katie_and_tom">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/katie_couric"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tom_werner"/>
+    <fb:end>2004</fb:end>
+    <fb:start>2000</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/antinous">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Antinous</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/shalane_mccall">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Shalane McCall</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/liv_tyler">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Liv Tyler</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mandy_and_billy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/billy_crawford"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_singleton">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Singleton</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/aaron_carter">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Aaron Carter</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/alyssa_milano">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Alyssa Milano</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tony_and_gwen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tony_kanal"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gwen_stefani"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/stuart_and_charlize">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/stuart_townsend"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/charlize_theron"/>
+    <fb:start>2001</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/amy_sedaris">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Amy Sedaris</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jane_and_warren">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jane_fonda"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/luke_wilson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Luke Wilson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/miley_cyrus">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Miley Cyrus</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jenna_dewan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jenna Dewan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/brad_pitt">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Brad Pitt</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/peter_doherty_1913">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Peter Doherty</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/beck_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/beck"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/katherine_heigl">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Katherine Heigl</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/chris_botti">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Chris Botti</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/marc_singer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Marc Singer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jules_and_george">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jules_sandeau"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/george_sand"/>
+    <fb:start>1831</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/guy_ritchie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Guy Ritchie</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/emma_and_bruce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/emma_heming"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bruce_willis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/blake_sennett">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Blake Sennett</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/helena_bonham_carter">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Helena Bonham Carter</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jenny_and_angelina">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jenny_shimizu"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/angelina_jolie"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_billy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_moss"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/billy_zane"/>
+    <fb:start>1999</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/michael_phelps">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Michael Phelps</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/gregory_smith">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Gregory Smith</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tre_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tre_cool"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/misty_and_john">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/misty_dawn"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_holmes_1944"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brad_and_jill">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jill_schoelen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jenny_shimizu">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jenny Shimizu</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/vanilla_ice">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Vanilla Ice</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/joaquin_and_liv">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/joaquin_phoenix"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/liv_tyler"/>
+    <fb:end>1998</fb:end>
+    <fb:start>1995</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/uma_and_robert">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/uma_thurman"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robert_de_niro"/>
+    <fb:end>1993</fb:end>
+    <fb:start>1992</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/christian_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/christian_slater"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:end>1990</fb:end>
+    <fb:start>1989</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_benitez"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/shana_and_ryan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/shana_wall"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ryan_seacrest"/>
+    <fb:end>2005</fb:end>
+    <fb:start>2003</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sheryl_and_lance">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sheryl_crow"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lance_armstrong"/>
+    <fb:end>2006-02</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/chris_noth">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Chris Noth</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/lauren_conrad">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Lauren Conrad</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jakob_dylan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jakob Dylan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/niki_taylor">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Niki Taylor</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/rupert_and_keira">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/rupert_friend"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/keira_knightley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/winona_and_johnny">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/johnny_depp"/>
+    <fb:end>1993</fb:end>
+    <fb:start>1990</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jenny_and_jim">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jenny_mccarthy"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jim_carrey"/>
+    <fb:start>2005-12</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ashlee_and_gregory">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ashlee_simpson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gregory_smith"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ben_and_gwyneth">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_affleck"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gwyneth_paltrow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/reese_and_jake">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/reese_witherspoon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jake_gyllenhaal"/>
+    <fb:start>2007</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/michael_vartan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Michael Vartan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/adam_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/adam_duritz"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_mayer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Mayer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kate_hudson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kate Hudson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tom_and_cher">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tom_cruise"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/cher"/>
+    <fb:end>1986</fb:end>
+    <fb:start>1983</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/jamie_hince">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jamie Hince</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/emma_heming">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Emma Heming</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/rufus_sewell">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Rufus Sewell</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/leonardo_dicaprio">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Leonardo DiCaprio</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tyra_and_chris">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tyra_banks"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/chris_webber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/nicole_richie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Nicole Richie</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/robert_de_niro">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Robert De Niro</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jim_carrey">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jim Carrey</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/devendra_banhart">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Devendra Banhart</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/vince_vaughn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Vince Vaughn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/tony_ward">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tony Ward</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ben_lee">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ben Lee</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/maria_and_bruce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/maria_rosado"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bruce_willis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jenny_and_jake">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jenny_lewis"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jake_gyllenhaal"/>
+    <fb:end>2001</fb:end>
+    <fb:start>2001</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/seka_and_john">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/seka"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_holmes_1944"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jennifer_and_rdf:Description>">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_lopez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/candice_bergen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Candice Bergen</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/lance_armstrong">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Lance Armstrong</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tate_donovan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tate Donovan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jennifer_grey">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jennifer Grey</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/brooke_burke">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Brooke Burke</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/samantha_ronson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Samantha Ronson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jessica_biel">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jessica Biel</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/dave_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/dave_grohl"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/katie_and_carrol">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/katie_couric"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/carrol_lesesne"/>
+    <fb:end>2000</fb:end>
+    <fb:start>1999</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/britt_ekland">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Britt Ekland</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/devendra_and_natalie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/devendra_banhart"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/natalie_portman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/misty_dawn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Misty Dawn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/pete_yorn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Pete Yorn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/joan_baez">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Joan Baez</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/greg_and_mandy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/greg_laswell"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/alfred_and_george">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/alfred_de_musset"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/george_sand"/>
+    <fb:end>1834</fb:end>
+    <fb:start>1833</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/pamela_anderson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Pamela Anderson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sarah_jessica_parker">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sarah Jessica Parker</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/reese_witherspoon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Reese Witherspoon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/nicole_and_joel">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicole_richie"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/joel_madden"/>
+    <fb:start>2007-03</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/catherine_deneuve">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Catherine Deneuve</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/paula_profit">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Paula Profit</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/diana_and_james">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/diana_princess_of_wales"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/james_hewitt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/niki_and_keith">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/niki_taylor"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/keith_urban"/>
+    <fb:end>2004</fb:end>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jeffrey_dean_morgan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jeffrey Dean Morgan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/frank_and_diane">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/frank_gannon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/diane_sawyer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mariah_and_luis">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mariah_carey"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/luis_miguel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/chris_webber">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Chris Webber</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/penn_badgley">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Penn Badgley</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_jessica">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_mayer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jessica_simpson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tito_and_jenna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tito_ortiz"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jenna_jameson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/vanilla_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/vanilla_ice"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jerry_and_carol">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jerry_seinfeld"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/carol_leifer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/bret_michaels">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Bret Michaels</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/matt_damon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Matt Damon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jill_schoelen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jill Schoelen</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/orlando_bloom">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Orlando Bloom</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/brett_ratner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Brett Ratner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/britney_and_fred">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/britney_spears"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/fred_durst"/>
+    <fb:start>2003</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kate_moss">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kate Moss</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_mayer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_aniston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tamara_and_bruce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tamara_witmer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bruce_willis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_stephen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_winslet"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/stephen_tredre"/>
+    <fb:end>1995</fb:end>
+    <fb:start>1990</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/minnie_driver">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Minnie Driver</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_f_kennedy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John F. Kennedy</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/amanda_and_ben">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/amanda_peet"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_stiller"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/amanda_peet">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Amanda Peet</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/claire_danes">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Claire Danes</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/justin_timberlake">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Justin Timberlake</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tony_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/tony_ward"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/orlando_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/orlando_bloom"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_aniston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_gina">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_cusack"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gina_gershon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_desiree">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_holmes_1944"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/desiree_cousteau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/holly_madison">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Holly Madison</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_britt">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/britt_ekland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tom_and_bridget">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tom_brady"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bridget_moynahan"/>
+    <fb:end>2006</fb:end>
+    <fb:start>2004</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jack_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jack_white"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jayde_nicole">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jayde Nicole</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/eliot_and_Ashley">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/eliot_spitzer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/Ashley_Alexandra_Dupre"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/josh_henderson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Josh Henderson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/johnny_depp">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Johnny Depp</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/gisele_and_tom">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gisele_bundchen"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tom_brady"/>
+    <fb:start>2006</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kristen_bell">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kristen Bell</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jakob_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jakob_dylan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jerry_seinfeld">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jerry Seinfeld</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/carlos_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/carlos_leon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_lance">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_hudson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lance_armstrong"/>
+    <fb:start>2008</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/michael_and_Caroline">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/michael_phelps"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/Caroline_Pal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/justin_and_alyssa">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/justin_timberlake"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/alyssa_milano"/>
+    <fb:start>2002-09</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_juliet">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_holmes_1944"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/juliet_anderson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/faye_dunaway">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Faye Dunaway</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ben_stiller">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ben Stiller</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/christian_slater">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Christian Slater</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/carly_simon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Carly Simon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jeffrey_and_mary-louise">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jeffrey_dean_morgan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mary-louise_parker"/>
+    <fb:end>2008-03</fb:end>
+    <fb:start>2006</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/rhett_miller">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Rhett Miller</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/zach_and_mandy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/zach_braff"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+    <fb:end>2006</fb:end>
+    <fb:start>2004</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hugh_and_emma">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hugh_laurie"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/emma_thompson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/leslie_caron">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Leslie Caron</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/angelina_jolie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Angelina Jolie</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brooke_and_bruce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brooke_burns"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bruce_willis"/>
+    <fb:end>2004</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sherilyn_and_johnny">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sherilyn_fenn"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/johnny_depp"/>
+    <fb:end>1989</fb:end>
+    <fb:start>1985</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/michael_and_carrie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/michael_phelps"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/carrie_underwood"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/christina_and_20044548">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/christina_ricci"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//authority/netflix/role/20044548"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tyra_banks">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tyra Banks</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jamie_dornan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jamie Dornan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/lenny_kravitz">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Lenny Kravitz</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/lindsay_and_samantha">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lindsay_lohan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/samantha_ronson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/heidi_and_anthony">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/heidi_klum"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/anthony_kiedis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/tate_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tate_donovan"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_aniston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hayden_and_milo">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hayden_panettiere"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/milo_ventimiglia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/julian_casablancas">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Julian Casablancas</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jenny_mccarthy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jenny McCarthy</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mark_kamins">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mark Kamins</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mario_and_kate">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mario_sorrenti"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_moss"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kim_kardashian">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kim Kardashian</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/beck">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Beck</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ray_j">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ray J</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hugh_and_kendra">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hugh_hefner"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kendra_wilkinson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/miley_and_nick">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/miley_cyrus"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/nick_jonas"/>
+    <fb:end>2007</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brad_and_thandie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/thandie_newton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/dennis_rodman">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Dennis Rodman</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tito_ortiz">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tito Ortiz</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/catherine_and_warren">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/catherine_deneuve"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/bruce_willis">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Bruce Willis</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/odessa_whitmire">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Odessa Whitmire</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/jimmy_reyes">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jimmy Reyes</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/george_gargurevich">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>George Gargurevich</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/adam_goldberg">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Adam Goldberg</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_owen">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_hudson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/owen_wilson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kendra_wilkinson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kendra Wilkinson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/pamela_and_marcus">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/pamela_anderson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/marcus_schenkenberg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/winona_ryder">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Winona Ryder</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/shar_jackson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Shar Jackson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/robert_downey_jr">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Robert Downey Jr.</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kate_winslet">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kate Winslet</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_johnny">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_moss"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/johnny_depp"/>
+    <fb:end>1998</fb:end>
+    <fb:start>1994</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ben_affleck">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ben Affleck</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ryan_seacrest">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ryan Seacrest</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/braxton_olita">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Braxton Olita</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/nick_jonas">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Nick Jonas</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/helena_and_kenneth">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/helena_bonham_carter"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kenneth_branagh"/>
+    <fb:end>1999</fb:end>
+    <fb:start>1994</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/fred_durst">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Fred Durst</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_candice">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/candice_bergen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/paula_and_charlie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/paula_profit"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/charlie_sheen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_mayer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_love_hewitt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/gwyneth_and_christopher">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gwyneth_paltrow"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/christopher_heinz"/>
+    <fb:end>2001</fb:end>
+    <fb:start>2000</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jennifer_and_vince">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_aniston"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/vince_vaughn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kate_and_peter">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_moss"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/peter_doherty_1913"/>
+    <fb:end>2007-07</fb:end>
+    <fb:start>2005-09</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/paul_and_amy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/paul_dinello"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/amy_sedaris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jared_leto">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jared Leto</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/frank_and_judith">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/frank_sinatra"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/judith_exner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/rich_cronin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Rich Cronin</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sean_combs">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sean Combs</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tom_werner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tom Werner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/katie_and_chris">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/katie_couric"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/chris_botti"/>
+    <fb:start>2005</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/warren_and_carly">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/warren_beatty"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/carly_simon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/matt_and_odessa">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/matt_damon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/odessa_whitmire"/>
+    <fb:end>2003</fb:end>
+    <fb:start>2001</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/uma_and_nicolas">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/uma_thurman"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicolas_cage"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jane_krakowski">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jane Krakowski</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/claire_and_billy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/claire_danes"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/billy_crudup"/>
+    <fb:end>2006-12</fb:end>
+    <fb:start>2004</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/luke_and_gwyneth">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/luke_wilson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gwyneth_paltrow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/justin_and_britney">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/justin_timberlake"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/britney_spears"/>
+    <fb:end>2002</fb:end>
+    <fb:start>1998</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/carol_leifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Carol Leifer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/shana_wall">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Shana Wall</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kelly_slater">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kelly Slater</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ashlee_and_ryan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ashlee_simpson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ryan_cabrera"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/janice_dickinson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Janice Dickinson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/nicole_and_brody">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicole_richie"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brody_jenner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/chris_isaak">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Chris Isaak</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/uma_thurman">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Uma Thurman</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mia_and_woody">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mia_farrow"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/woody_allen"/>
+    <fb:end>1992</fb:end>
+    <fb:start>1980</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/robbie_williams">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Robbie Williams</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/evan_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/evan_dando"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/cher">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Cher</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/bridget_moynahan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Bridget Moynahan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/juliette_lewis">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Juliette Lewis</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jennifer_lopez">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jennifer Lopez</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/serena_and_brett">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/serena_williams"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brett_ratner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mia_farrow">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mia Farrow</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_minka">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_mayer"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/minka_kelly"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/halle_and_gabriel">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/halle_berry"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/gabriel_aubry"/>
+    <fb:start>2005-11</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/robert_and_toukie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robert_de_niro"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/toukie_smith"/>
+    <fb:end>1991</fb:end>
+    <fb:start>1990</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/simon_cowell">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Simon Cowell</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/hank_and_kendra">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/hank_baskett"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kendra_wilkinson"/>
+    <fb:start>2008-11-01</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/joan_collins">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Joan Collins</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/eliot_spitzer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Eliot Spitzer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/james_hewitt">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>James Hewitt</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jane_fonda">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jane Fonda</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jason_behr">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jason Behr</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/david_furnish">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>David Furnish</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mark_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mark_kamins"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/karen_and_bruce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/karen_mcdougal"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bruce_willis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jefferson_hack">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jefferson Hack</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/katie_and_jimmy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/katie_couric"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/jimmy_reyes"/>
+    <fb:start>2006</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_tyra">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_singleton"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/tyra_banks"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/joan_and_bob">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/joan_baez"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bob_dylan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/bob_dylan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Bob Dylan</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/winona_and_pete">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/pete_yorn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tom_sizemore">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tom Sizemore</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ben_and_claire">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_lee"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/claire_danes"/>
+    <fb:end>2003</fb:end>
+    <fb:start>1998</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/carrie_underwood">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Carrie Underwood</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/elton_and_david">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/elton_john"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/david_furnish"/>
+    <fb:start>2005-12-21</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/john_cusack">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Cusack</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sarah_and_john">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sarah_jessica_parker"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_f_kennedy_jr"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jeanne_tripplehorn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jeanne Tripplehorn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ray_and_kim">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ray_j"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kim_kardashian"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/beyonce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Beyoncé</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jean-michel_and_madonna">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jean-michel_basquiat"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/matt_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/matt_damon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:end>2000</fb:end>
+    <fb:start>1996</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/hugh_laurie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Hugh Laurie</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_judith">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_f_kennedy"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/judith_exner"/>
+    <fb:end>1962</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/andy_roddick">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Andy Roddick</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/chris_raab">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Chris Raab</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/shoshanna_lonstein_gruss">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Shoshanna Lonstein Gruss</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/joey_lawrence">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Joey Lawrence</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/george_and_eva">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/george_gargurevich"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/eva_mendes"/>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/vanessa_and_zac">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/vanessa_anne_hudgens"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/zac_efron"/>
+    <fb:start>2008-07-19</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/kenneth_branagh">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Kenneth Branagh</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ashlee_and_chris">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ashlee_simpson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/chris_raab"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jay-z">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jay-Z</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/stacey_and_woody">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/stacey_nelkin"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/woody_allen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/soon-yi_and_woody">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/soon-yi_previn"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/woody_allen"/>
+    <fb:start>1990</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/hugh_hefner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Hugh Hefner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/jason_wahler">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jason Wahler</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/paul_sculfor">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Paul Sculfor</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/dax_shepard">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Dax Shepard</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/nicole_kidman">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Nicole Kidman</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/winona_and_jason">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jason_kay"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mandy_and_andy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/andy_roddick"/>
+    <fb:end>2004</fb:end>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/matt_and_minnie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/matt_damon"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/minnie_driver"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/emily_and_bruce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/emily_sandberg"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bruce_willis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jennifer_aniston">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jennifer Aniston</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/simon_and_terri">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/simon_cowell"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/terri_seymour"/>
+    <fb:end>2006</fb:end>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/madonna_and_sean">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/madonna"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sean_penn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/paul_westerberg">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Paul Westerberg</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/serena_and_common">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/serena_williams"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/common"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jason_kay">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jason Kay</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mary-louise_parker">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mary-Louise Parker</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/desiree_cousteau">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Desireé Cousteau</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/sarah_and_joshua">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sarah_jessica_parker"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/joshua_kadison"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/minka_kelly">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Minka Kelly</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/zac_efron">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Zac Efron</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jennifer_and_adam">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_aniston"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/adam_duritz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ryan_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ryan_adams"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/rich_and_jennifer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/rich_cronin"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jennifer_love_hewitt"/>
+    <fb:end>2001</fb:end>
+    <fb:start>1999</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/joel_madden">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Joel Madden</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/robert_and_leigh">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/robert_de_niro"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/leigh_taylor-young"/>
+    <fb:end>1974</fb:end>
+    <fb:start>1970</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/mark_wahlberg">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Mark Wahlberg</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/cameron_and_justin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/cameron_diaz"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/justin_timberlake"/>
+    <fb:end>2007-01-11</fb:end>
+    <fb:start>2003</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/robin_givens">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Robin Givens</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/sean_penn">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Sean Penn</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/adam_and_christina">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/adam_goldberg"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/christina_ricci"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/natalie_portman">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Natalie Portman</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/isabelle_adjani">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Isabelle Adjani</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/marilyn_and_john">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/marilyn_monroe"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_f_kennedy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tony_kanal">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tony Ashwin Kanal</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jean-michel_basquiat">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jean-Michel Basquiat</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jason_and_lauren">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/jason_wahler"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lauren_conrad"/>
+    <fb:end>2006-08-09</fb:end>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/cameron_diaz">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Cameron Diaz</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/adam_duritz">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Adam Duritz</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/flavio_briatore">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Flavio Briatore</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/owen_wilson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Owen Wilson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/elizabeth_and_nicolas">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/elizabeth_daily"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/nicolas_cage"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jefferson_and_kate">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jefferson_hack"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kate_moss"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ben_and_janeane">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ben_stiller"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/janeane_garofalo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tamara_witmer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tamara Witmer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/dave_pirner">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Dave Pirner</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/blake_and_winona">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/blake_sennett"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/winona_ryder"/>
+    <fb:start>2007</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/keira_and_jamie">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/keira_knightley"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jamie_dornan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jules_sandeau">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jules Sandeau</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/wilmer_and_lindsay">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/wilmer_valderrama"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/lindsay_lohan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/emma_thompson">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Emma Thompson</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/britney_spears">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Britney Spears</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/adam_goldstein">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Adam Goldstein</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/josh_hartnett">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Josh Hartnett</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/milo_ventimiglia">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Milo Ventimiglia</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/henry_kissinger">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Henry Kissinger</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/heidi_fleiss">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Heidi Fleiss</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/stacey_nelkin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Stacey Nelkin</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/pamela_and_bret">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/pamela_anderson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/bret_michaels"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/brad_and_sinitta">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/brad_pitt"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/sinitta_malone"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/hayden_panettiere">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Hayden Panettiere</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/mandy_and_ryan">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/mandy_moore"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ryan_adams"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/ashlee_and_braxton">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/ashlee_simpson"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//guid/braxton_olita"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/tom_brady">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Tom Brady</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/jenny_lewis">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Jenny Lewis</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/john_and_candy">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/john_holmes_1944"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/candy_samples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/kristen_and_kevin">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kristen_bell"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/kevin_mann"/>
+    <fb:end>2007</fb:end>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/ryan_adams">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Ryan Adams</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/suze_rotolo">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Suze Rotolo</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/christina_ricci">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Christina Ricci</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/leigh_taylor-young">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Leigh Taylor-Young</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/joshua_kadison">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Joshua Kadison</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//guid/john_mayer">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>John Mayer</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://rdf.freebase.com/ns//en/frank_gannon">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.celebrity"/>
+    <dc:title>Frank Gannon</dc:title>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/jay-z_and_beyonce">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/jay-z"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/beyonce"/>
+    <fb:start>2002</fb:start>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://semprog.com/celebs/relationship/carrie_and_chace">
+    <rdf:type rdf:resource="http://rdf.freebase.com/ns/celebrities.romantic_relationship"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/carrie_underwood"/>
+    <fb:with rdf:resource="http://rdf.freebase.com/ns//en/chace_crawford"/>
+    <fb:start>2007-08</fb:start>
+  </rdf:Description>
+
+</rdf:RDF>

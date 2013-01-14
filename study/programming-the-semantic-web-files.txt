@@ -1,0 +1,94 @@
+All of the code in the book and the data used in the examples are available for download in hopes that it makes your experimentation with the techniques described easier.
+
+Chapter 1: Why Semantics?
+    There is no code associated with Chapter 1
+    
+Chapter 2: Expressing Meaning
+    Data
+        business_triples.csv
+        celeb_triples.csv
+        celeb_triples.txt
+        movies.csv
+        place_triples.txt
+
+    Code
+        simpletriple.py
+        simplegraph.py
+
+Chapter 3: Using Semantic Data
+    Data
+        DC_addresses.csv 
+
+    Code
+        graphtools.py
+        inferencerule.py
+        simplegraph.py 
+
+Chapter 4: Just Enough RDF
+    There is no code associated with chapter 4 
+    
+Chapter 5: Sources of Semantic Data
+    Code
+        foafcrawler.py
+        socialanalysis.py 
+
+Chapter 6: What do you mean, “ontology?”
+    Data
+        film-ontology.owl 
+
+Chapter 7: Publishing Semantic Data
+    Data
+        iva_movies.xml
+        MovieReviews.csv
+        message_board.sql 
+
+    Code
+        IVAtoRDF.py
+        message_board_to_sioc.py
+        MergeTabReviews.py
+        publishLinkedMovies.py
+        message_board_LOD_server.py 
+
+Chapter 8: Overview of Toolkits
+    Data
+        celebs.rdf 
+
+    SIMILE Visualizations
+        celeb_timeline.html
+        celebs_basic_exhibit.html
+        celebs_fancy_exhibit.html 
+
+    Code
+        SimpleGraph.java
+        SimpleTest.java
+        TypeTest.java
+        pysesame.py 
+
+Chapter 9: Introspecting Objects from Data
+    Code
+        rdfobject.py 
+
+Chapter 10: Tying it all Together
+    Data
+        joblist.csv
+        job_listings.rdf
+        city_locations.csv
+        demographics.rdf 
+
+    Code
+        convert_jobs.py
+        crunchbase_data.py
+        job_site.py
+        load_city_locations.py
+        yahoo_finance_update.py 
+
+    Views and Templates
+        viewgeneric.html
+        exhibit1.html
+        viewcompany.html
+        viewgeneric_rdfa.html
+        jobquery.html
+        viewjob.html 
+
+Chapter 11: The Giant Global Graph
+    There is no code associated with chapter 11 
