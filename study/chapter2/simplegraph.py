@@ -37,9 +37,14 @@ class SimpleGraph:
 
     def remove(self, (sub, pred, obj)):
         """
+        パターンにマッチするすべてのトリプルを見つけ出して
+        それぞれのインデックスから取り除く。
         Remove a triple pattern from the graph.
         """
-        triples = list(self.triples((sub, pred, obj)))
+        triples = list(self.triples((sub, pred, obj))) # list()でリストをコピー。
+        # print triples
+        # [('blade_runner', 'release_date', 'June 25, 1982')]
+
         for (delSub, delPred, delObj) in triples:
             self._removeFromIndex(self._spo, delSub, delPred, delObj)
             self._removeFromIndex(self._pos, delPred, delObj, delSub)
@@ -53,9 +58,11 @@ class SimpleGraph:
             bs = index[a]
             cset = bs[b]
             cset.remove(c)
+            # トリプルの語を取り除いたときに、空になった辞書があれば削除する
             if len(cset) == 0: del bs[b]
             if len(bs) == 0: del index[a]
         # KeyErrors occur if a term was missing, which means that it wasn't a valid delete:
+        # 語が見つからない場合には削除できずにKeyErrorになるのでパス。
         except KeyError:
             pass
 
@@ -118,6 +125,7 @@ class SimpleGraph:
             break
         return None
 
+    # CSVファイルからトリプルらを読み込むメソッド。要import csv
     def load(self, filename):
         f = open(filename, "rb")
         reader = csv.reader(f)
@@ -128,12 +136,21 @@ class SimpleGraph:
             self.add((sub, pred, obj))
         f.close()
 
+    # 保持しているトリプルを全部CSVにはき出すメソッド。
     def save(self, filename):
         f = open(filename, "wb")
         writer = csv.writer(f)
         for sub, pred, obj in self.triples((None, None, None)):
             writer.writerow([sub.encode("UTF-8"), pred.encode("UTF-8"), obj.encode("UTF-8")])
         f.close()
+
+    def debug(self, msg, exit = False):
+      print '--- ' + msg
+      print self._spo
+      print self._pos
+      print self._osp
+      if exit == True: sys.exit()
+
 
 
 if __name__ == "__main__":
@@ -156,17 +173,17 @@ if __name__ == "__main__":
     # {'release_date': {'June 25, 1982': set(['blade_runner'])}, 'name': {'Blade Runner': set(['blade_runner'])}}
     # {'June 25, 1982': {'blade_runner': set(['release_date'])}, 'Blade Runner': {'blade_runner': set(['name'])}}
 
+    # g.debug('トリプルを追加')
+    g.remove(("blade_runner", "release_date", "June 25, 1982"))
+    # g.debug('トリプルを削除', True)
+
+
     # インデックスを追加
     g.add(("blade_runner", "directed_by", "Ridley Scott"))
     # {'blade_runner': {'release_date': set(['June 25, 1982']), 'name': set(['Blade Runner']), 'directed_by': set(['Ridley Scott'])}}
     # {'release_date': {'June 25, 1982': set(['blade_runner'])}, 'name': {'Blade Runner': set(['blade_runner'])}, 'directed_by': {'Ridley Scott': set(['blade_runner'])}}
     # {'Ridley Scott': {'blade_runner': set(['directed_by'])}, 'June 25, 1982': {'blade_runner': set(['release_date'])}, 'Blade Runner': {'blade_runner': set(['name'])}}
 
-    print g._spo
-    print g._pos
-    print g._osp
-    # return 0
-    sys.exit()
 
     print list(g.triples((None, None, None)))
     print list(g.triples(("blade_runner", None, None)))
