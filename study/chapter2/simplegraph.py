@@ -66,6 +66,7 @@ class SimpleGraph:
         except KeyError:
             pass
 
+    # パターンにマッチするすべてのトリプルを返す。Noneはワイルドカード。
     def triples(self, (sub, pred, obj)):
         """
         Generator over the triple store.
@@ -109,14 +110,28 @@ class SimpleGraph:
                                 yield (retSub, retPred, obj)
                     # None None None
                     else:
+                        # print self._spo.items()
+                        # [('blade_runner', {'name': set(['Blade Runner']), 'directed_by': set(['Ridley Scott'])})]
                         for retSub, predSet in self._spo.items():
+                            # print retSub
+                            # print predSet
+                            # print '****'
                             for retPred, objSet in predSet.items():
+                                # print retPred
+                                # print objSet
+                                # print '####'
                                 for retObj in objSet:
+                                    # print retObj
+                                    # print '^^^^'
+                                    # 一回一回タプルのセットを返す。
+                                    # 最後の階層を毎回返すので、メソッドの戻り値はタプルのリストになる。
                                     yield (retSub, retPred, retObj)
         # KeyErrors occur if a query term wasn't in the index, so we yield nothing:
         except KeyError:
             pass
-            
+
+    # トリプルの値を取得するメソッド。
+    # 例 g.value('blade_runner', 'directed_by', None)
     def value(self, sub=None, pred=None, obj=None):
         for retSub, retPred, retObj in self.triples((sub, pred, obj)):
             if sub is None: return retSub
@@ -149,6 +164,7 @@ class SimpleGraph:
       print self._spo
       print self._pos
       print self._osp
+      print '---'
       if exit == True: sys.exit()
 
 
@@ -185,16 +201,25 @@ if __name__ == "__main__":
     # {'Ridley Scott': {'blade_runner': set(['directed_by'])}, 'June 25, 1982': {'blade_runner': set(['release_date'])}, 'Blade Runner': {'blade_runner': set(['name'])}}
 
 
+    # g.debug('クエリを実行。該当するすべてのトリプルが帰ってくる。')
     print list(g.triples((None, None, None)))
+    # g.debug('None, None, None で抽出', True)
+
     print list(g.triples(("blade_runner", None, None)))
     print list(g.triples(("blade_runner", "name", None)))
     print list(g.triples(("blade_runner", "name", "Blade Runner")))
     print list(g.triples(("blade_runner", None, "Blade Runner")))
+
+    print g.value('blade_runner', 'name', None)
+    print g.value('blade_runner', None, 'Ridley Scott')
+
     print list(g.triples((None, "name", "Blade Runner")))
     print list(g.triples((None, None, "Blade Runner")))
 
+    # クエリで指定された語がインデックスの中になければ返さない
     print list(g.triples(("foo", "name", "Blade Runner")))
     print list(g.triples(("blade_runner", "foo", "Blade Runner")))
     print list(g.triples(("blade_runner", "name", "foo")))
+
 
 
